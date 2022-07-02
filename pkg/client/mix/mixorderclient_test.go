@@ -1,10 +1,11 @@
 package mix
 
 import (
-	"bitget/internal"
-	"bitget/pkg/model/mix/order"
 	"fmt"
 	"testing"
+
+	"github.com/speedwheel/bitget-go/internal"
+	"github.com/speedwheel/bitget-go/pkg/model/mix/order"
 )
 
 func TestMixOrderClient_PlaceOrder(t *testing.T) {

@@ -1,9 +1,10 @@
 package common
 
 import (
-	"bitget/internal"
 	"fmt"
 	"testing"
+
+	"github.com/speedwheel/bitget-go/internal"
 )
 
 func TestSigner_Sign(t *testing.T) {

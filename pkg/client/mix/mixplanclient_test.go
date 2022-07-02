@@ -1,10 +1,11 @@
 package mix
 
 import (
-	"bitget/internal"
-	"bitget/pkg/model/mix/plan"
 	"fmt"
 	"testing"
+
+	"github.com/speedwheel/bitget-go/internal"
+	"github.com/speedwheel/bitget-go/pkg/model/mix/plan"
 )
 
 func TestMixPlanClient_PlacePlan(t *testing.T) {

@@ -1,10 +1,10 @@
 package spot
 
 import (
-	"bitget/constants"
-	"bitget/internal"
-	"bitget/internal/common"
-	"bitget/pkg/model/spot/order"
+	"github.com/speedwheel/bitget-go/constants"
+	"github.com/speedwheel/bitget-go/internal"
+	"github.com/speedwheel/bitget-go/internal/common"
+	"github.com/speedwheel/bitget-go/pkg/model/spot/order"
 )
 
 type SpotOrderClient struct {

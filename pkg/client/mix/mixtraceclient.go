@@ -1,10 +1,10 @@
 package mix
 
 import (
-	"bitget/constants"
-	"bitget/internal"
-	"bitget/internal/common"
-	"bitget/pkg/model/mix/trace"
+	"github.com/speedwheel/bitget-go/constants"
+	"github.com/speedwheel/bitget-go/internal"
+	"github.com/speedwheel/bitget-go/internal/common"
+	"github.com/speedwheel/bitget-go/pkg/model/mix/trace"
 )
 
 type MixTraceClient struct {

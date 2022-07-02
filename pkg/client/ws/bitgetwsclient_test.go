@@ -1,9 +1,10 @@
 package ws
 
 import (
-	"bitget/internal/model"
 	"fmt"
 	"testing"
+
+	"github.com/speedwheel/bitget-go/internal/model"
 )
 
 func TestBitgetWsClient_New(t *testing.T) {

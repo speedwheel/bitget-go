@@ -1,9 +1,9 @@
 package spot
 
 import (
-	"bitget/constants"
-	"bitget/internal"
-	"bitget/internal/common"
+	"github.com/speedwheel/bitget-go/constants"
+	"github.com/speedwheel/bitget-go/internal"
+	"github.com/speedwheel/bitget-go/internal/common"
 )
 
 type SpotPublicClient struct {
