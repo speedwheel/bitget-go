@@ -1,4 +1,4 @@
-module bitget
+module github.com/speedwheel/bitget-go
 
 go 1.17
 
